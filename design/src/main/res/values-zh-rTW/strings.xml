@@ -178,7 +178,7 @@
     <string name="force_enable">強制啟用</string>
     <string name="document">文件</string>
     <string name="clash_wiki">Clash Wiki</string>
-    <string name="invalid_file_name">不規範檔案名稱</string>
+    <string name="invalid_file_name">無效的檔案名稱</string>
     <string name="reset_override_settings">重置覆寫設定</string>
     <string name="reset_override_settings_message">所有的覆寫設定將會被抹除</string>
     <string name="key">鍵</string>
