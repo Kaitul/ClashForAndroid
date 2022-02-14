@@ -109,7 +109,7 @@
     <string name="dns">DNS</string>
     <string name="http_port">HTTP 埠</string>
     <string name="socks_port">Socks 埠</string>
-    <string name="mixed_port">混合埠</string>
+    <string name="mixed_port">Mixed 埠</string>
     <string name="allow_lan">允許來自區域網路的連線</string>
     <string name="bind_address">監聽位址</string>
     <string name="log_level">日誌層次</string>
