@@ -82,7 +82,7 @@
     <string name="clash_for_android">Clash for Android</string>
     <string name="feedback">回饋</string>
     <string name="github_issues">Github Issues</string>
-    <string name="tips_properties"><![CDATA[僅接受 <strong>Clash 設定檔</strong>(包含<strong>Proxy</strong>/<strong>規則</strong>)]]></string>
+    <string name="tips_properties"><![CDATA[僅接受 <strong>Clash 設定檔</strong> (包含<strong>Proxy</strong> /<strong>規則</strong>)]]></string>
     <string name="loading">載入中</string>
     <string name="tips_help"><![CDATA[Clash for Android 是一個<strong>免費應用程式</strong>並且我們<strong>不</strong>為其提供任何服務, <strong>請務必不要回報非應用程式自身引起的問題</strong>]]></string>
     <string name="donate">捐助</string>
