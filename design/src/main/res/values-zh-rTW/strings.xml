@@ -9,8 +9,8 @@
     <string name="application_name">Clash for Android</string>
     <string name="auto_update">自動更新</string>
     <string name="behavior">行為</string>
-    <string name="bypass_private_network">繞過私有網路</string>
-    <string name="bypass_private_network_summary">繞過私有網路位址</string>
+    <string name="bypass_private_network">略過私有網路</string>
+    <string name="bypass_private_network_summary">略過私有網路位址</string>
     <string name="cancel">取消</string>
     <string name="clash_logcat">Clash Logcat</string>
     <string name="create_profile">建立設定檔</string>
